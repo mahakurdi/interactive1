@@ -1,66 +1,76 @@
-span {
-	color: red;
-	font-family: sans-serif;
+h1, h4{
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+img{ 
+	width: 100%;
+	height: auto;
+}
+.flexBody {
+	display: flex;
+	flex-wrap: wrap;
 }
 #snap {
-	width: 200px;
-	position: relative;
-	left: 200px;
+	width: 24vw;
+	
+	
 }
 #Face {
-	width: 100px;
+	width: 20vw;
+	
 }
 #insta {
-	height: 50px;
+	width: 19vw;
+	
 }
 #google {
-	width: 25px;
+	width: 25vw;
 }
 #Linkin {
-	height: 100px;
+	width: 18vw;
 }
 #Athan {
-	width: 100px;
+	width: 2vw;
 }
 #Free {
-	height: 100px;
+	width: 10vw;
 }
 #twieet {
-	width: 100px;
+	width: 20vw;
 }
 #City {
-	height: 100px;
+	width:  5vw;
 }
 #Expei {
-	width: 100px;
+	width: 15vw;
 }
 #group {
-	height: 100px;
+	width: 18vw;
 }
 #Train {
-	width: 100px;
+	width: 6vw;
 }
 #ofeer {
-	height: 100px;
+	width:  5vw;
 }
 #ticket {
-	width: 100px;
+	width: 17vw;
 }
 #Rent {
-	height: 100px;
+	width:  3vw;
 }
 #Food {
-	width: 100px;
+	width: 15vw;
 }
 #windows {
-	height: 100px;
+	width:  25vw;
 }
 #point {
-	width: 100px;
+	width: vw;
 }
 #numbers {
-	height: 100px;
+	width: 10vw;
 }
 #news {
-	width: 100px;
+	width: 12vw;
 }
