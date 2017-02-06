@@ -6,6 +6,9 @@ img{
 	width: 100%;
 	height: auto;
 }
+body{
+	background-color: white;
+}
 .flexBody {
 	display: flex;
 	flex-wrap: wrap;
@@ -13,104 +16,104 @@ img{
 #snap {
 	width: 24vw;
 	font-size: 20px;
-	color: red; 
+	color: black; 
 	
 	
 }
 #Face {
 	width: 20vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 	
 }
 #insta {
 	width: 19vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 	
 }
 #google {
 	width: 25vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #Linkin {
 	width: 18vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #Athan {
 	width: 10vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #Free {
 	width: 10vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #twieet {
 	width: 20vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #City {
 	width:  10vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #Expei {
 	width: 20vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #group {
 	width: 18vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #Train {
 	width: 6vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #ofeer {
 	width:  13vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #ticket {
 	width: 17vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #Rent {
 	width:  3vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #Food {
 	width: 15vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #windows {
 	width:  25vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #point {
 	width: vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #numbers {
 	width: 10vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
 #news {
 	width: 12vw;
 	font-size: 20px;
-	color: red;
+	color: black;
 }
