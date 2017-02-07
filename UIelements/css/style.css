@@ -1,7 +1,6 @@
-h1, h4{
+h1, h4, h2{
 	text-align: center;
-	font-family: 'Indie Flower', cursive;
-}
+	font-family: 'Indie Flower', cursive;}
 img{ 
 	width: 100%;
 	height: auto;
@@ -16,104 +15,104 @@ body{
 #snap {
 	width: 24vw;
 	font-size: 20px;
-	color: black; 
+	color: purple; 
 	
 	
 }
 #Face {
 	width: 20vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 	
 }
 #insta {
 	width: 19vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 	
 }
 #google {
-	width: 25vw;
+	width: 30vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #Linkin {
 	width: 18vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #Athan {
 	width: 10vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #Free {
 	width: 10vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #twieet {
 	width: 20vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #City {
 	width:  10vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #Expei {
-	width: 20vw;
+	width: 25vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #group {
 	width: 18vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #Train {
 	width: 6vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #ofeer {
 	width:  13vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #ticket {
 	width: 17vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #Rent {
 	width:  3vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #Food {
 	width: 15vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #windows {
 	width:  25vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #point {
-	width: vw;
+	width: 19vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #numbers {
 	width: 10vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
 #news {
-	width: 12vw;
+	width: 7vw;
 	font-size: 20px;
-	color: black;
+	color: purple;
 }
