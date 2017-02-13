@@ -1,0 +1,36 @@
+h1,h2,p,h3{
+	text-align: center;
+	font-family: helvetica;
+}
+#refreshbutton,#text{
+	display: inline-block;
+	margin: 0 auto;
+	width: 25%
+
+}
+.container{
+	display: inline-block;
+	width: 40%; 
+	margin: 5px 3%;
+}
+.icon{
+	width: 20%;
+	height: auto;
+
+}
+.square{
+	border: 2px solid black;
+	width: 70%;
+	display: inline-block;
+	margin-left: 8%;
+
+}
+span {
+	font-weight: 900;
+}
+
+header {
+	margin: 0 5%;
+	width: 90%;
+	text-align: center;
+}
