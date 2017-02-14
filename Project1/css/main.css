@@ -1,17 +1,27 @@
-h1,h2,p,h3{
+h1,h3{
 	text-align: center;
 	font-family: helvetica;
 }
-#refreshbutton,#text{
+h2,p{
+	text-align: left;
+	font-family: helvetica;
+}
+#refreshbutton{
 	display: inline-block;
 	margin: 0 auto;
 	width: 25%
 
 }
+,#text{
+	display: inline-block;
+	margin: 0 auto;
+	width: 25%
+}
 .container{
 	display: inline-block;
-	width: 40%; 
+	width: 44%; 
 	margin: 5px 3%;
+
 }
 .icon{
 	width: 20%;
