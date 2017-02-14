@@ -1,6 +1,12 @@
+* {
+	margin: 0px;
+	padding: 5px;
+}
+
 h1,h3{
 	text-align: center;
 	font-family: helvetica;
+	color: gray;
 }
 h2,p{
 	text-align: left;
@@ -9,24 +15,56 @@ h2,p{
 #refreshbutton{
 	display: inline-block;
 	margin: 0 auto;
-	width: 25%
-
+	width: 25%;
 }
 ,#text{
 	display: inline-block;
 	margin: 0 auto;
-	width: 25%
+	width: 25%;
 }
 .container{
 	display: inline-block;
 	width: 44%; 
 	margin: 5px 3%;
 
+
+}
+p{
+	padding: 5px;
+	text-align: center;
+}
+#whatsapp{
+	border: solid 3px green;
+
+}
+#yelp{
+	border: solid 3px red;
+}
+#snapchat{
+	border: solid 3px yellow;
+}
+#YouTube{
+	border: solid 3px red;
+}
+#Twitter{
+	border: solid 3px skyblue;
+}
+#Instagram{
+	border: solid 3px purple;
+}
+#facebook{
+	border: solid 3px blue;
+}
+#linkedin{
+	border: solid 3px skyblue;
 }
 .icon{
 	width: 20%;
 	height: auto;
 
+}
+.content{
+	text-align: center;
 }
 .square{
 	border: 2px solid black;
