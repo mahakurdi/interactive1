@@ -6,16 +6,16 @@
 h1,h3{
 	text-align: center;
 	font-family: helvetica;
-	color: gray;
+	color: black;
 }
 h2,p{
-	text-align: left;
+	text-align: center;
 	font-family: helvetica;
 }
 #refreshbutton{
 	display: inline-block;
 	margin: 0 auto;
-	width: 25%;
+	width: 19%;
 }
 ,#text{
 	display: inline-block;
@@ -24,7 +24,7 @@ h2,p{
 }
 .container{
 	display: inline-block;
-	width: 44%; 
+	width: 41%; 
 	margin: 5px 3%;
 
 
@@ -59,8 +59,9 @@ p{
 	border: solid 3px skyblue;
 }
 .icon{
-	width: 20%;
+	width: 10%;
 	height: auto;
+
 
 }
 .content{
