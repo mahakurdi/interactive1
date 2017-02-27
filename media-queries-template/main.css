@@ -9,8 +9,8 @@ body {
 	opacity: 1;
 	color: black;
 	margin-top: 100px;
-	font-size: 20px;
-	font-family: helvetica;
+	font-size: 30px;
+	font-family: times;
 	text-align: center;
 	font-weight: bold;
 }
@@ -19,8 +19,8 @@ body {
 	display: block;
 	opacity: 0;
 	margin-top: 200px;
-	font-size: 20px;
-	font-family: helvetica;
+	font-size: 30px;
+	font-family: times;
 	text-align: center;
 	font-weight: bold;
 }
@@ -28,9 +28,9 @@ body {
 	display: block;
 	opacity: 0;
 	margin-top: 200px;
-	font-size: 20px;
-	font-family: helvetica;
-	text-align: center;
+	font-size: 30px;
+	font-family: times;
+	text-align: left;
 	font-weight: bold;
 	transform: rotate(-50deg) translate(-200px);
 }
