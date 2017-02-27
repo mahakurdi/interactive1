@@ -13,7 +13,6 @@ body {
 	font-family: helvetica;
 	text-align: center;
 	font-weight: bold;
-	transform: rotate(-90deg) translate(-20px);
 }
 
 #tablet {
@@ -56,7 +55,7 @@ body {
 @media (min-width: 375px) and (max-width: 667px) { 
 	
 	body {
-		background: green;
+		background: blue;
 	}
 
 	#mobile{
@@ -66,4 +65,15 @@ body {
 	#desktop, #tablet {
 		opacity: 0;
 	}
+}
+
+#source {
+    font-size: 12px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-weight: normal;
+    color: black;
+    transform: rotate(90deg);
+    transform-origin: bottom left;
 }
