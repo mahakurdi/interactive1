@@ -2,36 +2,41 @@
   margin: 0px; 
   padding: 0px;
 }
+
 .box {
   height: auto;
   width: 100vw;
   display: block;
   margin: 0px auto;
   text-align: center;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 30px;
 }
+
 .arrow {
   height: 15vh;
   width: auto;
 }
+
 #snapchat {
   background: yellow;
 }
 
 img{
   margin: 10px auto;
-  transition: all 600ms ease; 
+  transition: all 500ms ease; 
+
 }
 
 img:hover{
-  transform: scale(1.5); 
+  transform: scale(1.2); 
 }
 
 p{ 
   text-align: center;
   font-weight: 40px;
   font-family: helvetica;
+  font-size: 21px;
+  padding-bottom: 20px;
    }
 
 h1 {
@@ -50,28 +55,22 @@ h1 {
   background: gray;
 }
 
-
 #morning {
   background: white;
 }
-
-
 
 #fax {
   background: wheat;
 }
 
-
-
 #flashlight {
   background: darkgray;
 }
 
-
-
 #saddevil {
   background: purple;
 }
+
 
 
 
