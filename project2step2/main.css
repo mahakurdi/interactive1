@@ -21,24 +21,25 @@
 
 img{
   margin: 10px auto;
-  transition: all 500ms ease; 
+  transition: all 600ms ease; 
 }
 
 img:hover{
-  transform: scale(1.2); 
+  transform: scale(1.5); 
 }
 
 p{ 
   text-align: center;
   font-weight: 40px;
+  font-family: helvetica;
    }
+
 h1 {
-  background: yellow;
-  border: 2px solid black;
   width: 75%;
   display: block;
   margin: 0px auto;
   font-size: 21px;
+  font-family: helvetica;
 }
 
 #happyDevil {
