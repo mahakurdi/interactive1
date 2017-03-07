@@ -8,6 +8,8 @@
   display: block;
   margin: 0px auto;
   text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .arrow {
   height: 15vh;
@@ -21,7 +23,6 @@ img{
   margin: 10px auto;
   transition: all 500ms ease; 
 }
-
 
 img:hover{
   transform: scale(1.2); 
