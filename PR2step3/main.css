@@ -38,7 +38,7 @@ h4,h2,h3,h5{
 	text-align: left;
 }
 
-h1,p,{
+h1,p,h4{
 	font-family: helvetica;
 	margin: 3%;
 	text-align: center;
@@ -46,4 +46,9 @@ h1,p,{
 #info{
 	font-family: helvetica;
 	margin: auto;
+}
+
+#filter{
+	position: relative;
+
 }
