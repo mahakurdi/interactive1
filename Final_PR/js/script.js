@@ -6,7 +6,7 @@ $('body').click(function(){
 	$(this).removeClass();
 	$(this).addClass('swap-'+n+'');
 	
-	if(n > 2){
+	if(n > 8){
 		n=0;
 	}
 
@@ -14,5 +14,8 @@ $('body').click(function(){
 
 });
 
-
+$('body').mousemove(function(e){
+		// try switching the 'top' and 'left' values
+		$('body').css({ 'background-size': e.clientY});
+	});
 });
