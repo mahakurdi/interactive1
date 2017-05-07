@@ -1,0 +1,86 @@
+*{
+  margin: 0px; 
+  padding: 0px;
+}
+
+body {
+	background: yellow;
+}
+
+.box {
+  height: auto;
+  width: 500px;
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 100px;
+  font-family: helvetica;
+}
+
+img { margin-bottom: 40px; }
+
+#logo{
+	width: 200px;
+	height: auto;
+	margin: 10px auto;
+}
+#intro{
+	margin: auto;
+	margin-top: 20%: 
+	padding-top: 40px;
+}
+
+h4,h2,h3,h5{
+	font-family: helvetica;
+	margin: 3%;
+	text-align: center;
+}
+
+h1,p,h4{
+	font-family: helvetica;
+	margin: 3%;
+	text-align: center;
+}
+#info{
+	font-family: helvetica;
+	margin: auto;
+	padding-top: 60px;
+}
+
+#filter{
+	width: 968px;
+	margin: auto;
+}
+
+#filter img {
+	width: 300px;
+	margin: 10px;
+	height: auto;
+
+	display: inline-block;
+}
+
+#geo{
+	position: fixed;
+	top: 20px;
+	right: 20px;
+}
+
+/* phone image */
+
+.phone {
+	width: 317px;
+    height: 509px;
+    margin: 50px auto;
+    display: block;
+    background: url(img/iphone6.png) center no-repeat;
+    text-align: center;
+    padding: 70px;
+}
+
+.phone img {
+	width: 286px;
+	height: auto;
+}
+
